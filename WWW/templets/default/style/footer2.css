@@ -1,0 +1,36 @@
+.footerItemTop a{
+	text-decoration: none !important; 
+}
+.footerItemTop a:hover{
+	color: #fff;
+}
+.wei_shu{
+	padding: 0 4px 0 0;
+	border-right: 3px;
+	height: 13px;
+	padding-left: 12px;
+	padding-right: 12px;
+}
+.wei_footer{
+	background-color: #e8e8e8 !important;
+	clear: both;
+	text-align: center;
+	margin: 0 auto;
+}
+#webFooter{width:100% !important;}
+.footer{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.footerMiddle{
+	text-align: center;
+	margin: 0 auto;
+}
+.footerItemListBox ul{
+	text-align: center;
+	margin: 0 auto;
+}
+.footer_wei{
+	text-align: center !important;
+}

@@ -1,0 +1,10 @@
+INSERT INTO `dede_diyform1` VALUES('27','0','啊啊啊啊','啊23','1234556','12312541ewsw');
+INSERT INTO `dede_diyform1` VALUES('32','0','啊啊啊啊','111 ','起啊啊','事实上');
+INSERT INTO `dede_diyform1` VALUES('31','0','asd','洒洒水所','123','凄凄切切');
+INSERT INTO `dede_diyform1` VALUES('21','0','','','','');
+INSERT INTO `dede_diyform1` VALUES('30','0','奥数水所','assassin','啊实打实','阿萨德');
+INSERT INTO `dede_diyform1` VALUES('29','0','我是一只大松鼠','我是一只大松鼠','天津','洒洒水所');
+INSERT INTO `dede_diyform1` VALUES('28','0','啊啊啊啊','啊23','1234556','12312541ewsw');
+INSERT INTO `dede_diyform1` VALUES('33','0','亲亲','亲亲','亲亲','啊啊啊');
+INSERT INTO `dede_diyform1` VALUES('34','0','琴','3','2','1');
+INSERT INTO `dede_diyform1` VALUES('35','0','啊啊啊啊','啊23','t','112');
