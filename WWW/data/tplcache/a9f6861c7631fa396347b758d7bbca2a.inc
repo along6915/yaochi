@@ -1,1 +1,0 @@
-<li class="xiala" style="background-color:f13a3a ;"><a class="topwen" href="[field:typelink/]">[field:typename/]</a></li>

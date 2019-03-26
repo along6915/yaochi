@@ -1,1 +1,0 @@
-<li style="position: absolute; top: 5px; "><a href="[field:typelink/]">[field:typename/]</a></li>

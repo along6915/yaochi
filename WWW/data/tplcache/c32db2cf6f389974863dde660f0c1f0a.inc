@@ -1,1 +1,0 @@
-<li style=""><a href="[field:typelink/]">[field:typename/]</a></li>
